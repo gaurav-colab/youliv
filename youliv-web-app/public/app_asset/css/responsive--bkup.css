@@ -1,0 +1,2964 @@
+
+@media(max-width:1600px){
+ 
+	.banner-content {
+    width: 60%;
+	}
+	.banner-content h1 {
+        font-size: 57px;
+	}
+	header .sign-btn > li > a {
+    font-size: 15px;
+	}
+	.change ul.nav.navbar-nav.sign-btn.si-sticky {
+    margin-left: 11%;
+	}
+	.change .search-form {
+    width: 600px;
+	}
+ 	header.outer-header .change ul.si-sticky {
+    margin-left: 14% !important;
+	}
+	.love-slid-content p{
+		height:201px;
+	}
+    .promise-content ul li {
+    width: 40%;
+    margin: 0 10px 52px 0;
+    }
+    .welcome-sec {
+       background-position: top -75px center;
+    margin-top: 0;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    }
+    section.promise-sec .sec-heading {
+    width: 35%;
+    }
+    .loc-pro-outer .co-slider-btn a {
+    min-width: 150px;
+    } 
+    .empty:after {
+    width: 35%;
+    right: 0%;
+    top: 3px;
+    }
+	.coliv-slider .owl-dots {
+    position: absolute;
+    bottom: 0;
+    display: block;
+    width: 100%;
+    text-align: center;
+		    padding-right: 15px;
+	}
+    .pd-modal {
+    width: 54%;
+    margin-top: 14px;
+    }
+    .booking-house > figcaption {
+    width: 74.9%;
+    }
+    .occup-det-one {
+    width: calc(100% - 508px);
+    padding: 36px 22px 0;
+    }
+    .occup-det-block1 .book-occup {
+    margin-right: 50px;
+    }
+    .occup-det-block1 .book-occup:after {
+    right: -28px;
+    }
+    .occup-payment-detail {
+    width: 475px
+    }
+    .svisit-outer ul li {
+    width: 49.5%;
+    }
+	.visit-body .logform-btn {
+    margin: 58px 14% 6px;
+	}
+    .svisit-outer ul li:first-child:after {
+    right: 5px;
+    }
+	.banner-content h2 {
+        font-size: 65px;
+	}
+    .con-in-content {
+    padding-left: 20px;
+    }
+    .contact-in-sec:before {
+    left: 17%;
+    }
+    .occup-det-block2 form .form-group,
+    .occup-det-block2 form .form-group select{
+    width: 48%;
+    }
+    .occup-det-block2 form .form-group.left-group-oc {
+    float: right;
+    }
+	.switch-plan {
+    width: 362px;
+	}
+	.my-subs .monthly-pay-price {
+    padding: 54px 36px;
+	}
+	.upcoming-visit {
+    width: calc(100% - 390px);
+    padding: 30px 16px 0 10px;
+	}
+	.upcoming-visit .booking-house {
+    margin: 26px 15px;
+	}
+	.upcoming-visit .booking-house .co-slider-btn a {
+    padding: 6px 9px;
+	}
+	.amen-sec {
+    margin-top: -30px;
+	}
+	.neighbour {
+    margin-top: -138px;
+	}
+	.visit-body {
+        padding: 52px 80px;
+	}
+	.visit-header h2 {
+       padding: 16px 0;
+    font-size: 20px;
+	}
+	div#subscription-modal .pd-modal {
+    width: 72%;
+	}
+	.visit-body h2 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 10px;
+	}
+	.visit-body .form-group input, .visit-body .form-group span {
+    height: 44px;
+	}
+	.visit-body p {
+    margin-bottom: 30px;
+    padding-left: 0;
+
+	}
+	.visit-body form {
+    margin-bottom: 36px;
+	}
+	.visit-body h3 {
+       margin-bottom: 17px;
+	}
+	main {
+    width: 100%;
+	}
+	.banner {
+    background-position: unset;
+	}
+	.coliv-slider.owl-carousel {
+    height: 451px;
+	}
+}
+
+
+@media(max-width:1500px){
+    .cstm-container {
+    padding: 0px 30px;
+    }
+	header.outer-header .change ul.si-sticky {
+    margin-left: 11% !important;
+	}
+	.change ul.nav.navbar-nav.sign-btn.si-sticky {
+    margin-left: 10%;
+	}
+	.lat-lov-fig {
+    left: 10%;
+	bottom: 4%;
+	}
+    .welcome-sec-outer {
+    padding:0
+    }
+    .co-slider-btn a {
+    font-size: 14px;
+    }
+   .loc-pro-outer .co-slider-btn a {
+   min-width: 112px;
+    padding: 10px 10px;
+    }
+   .empty:after {
+    width: 23%;
+    right: 7%;
+    top: 3px;
+    }
+    .cstm-checkbox {
+    padding-left: 0px;
+    }
+  
+    .con-in-content {
+    padding-left: 24px;
+    }
+    .contact-in-sec:before {
+    left: 16%;
+    }
+    .login-bg-img figure {
+    height: 108vh;
+    }
+    .about-in-sec {
+    background-position: left center;
+    }
+      .neighbour ul li {
+    width: 20.4%;
+    margin: 13px 21px 13px 0;
+    }
+ 
+  
+    .booking-house > figcaption {
+    padding: 18px 20px 10px 10px;
+    }
+	.upcoming-visit .booking-house > figcaption {
+    width: 65.9%;
+	}
+    .booking-house .co-slider-btn a {
+    padding: 13px 18px;
+    }
+    .book-occup {
+    margin-right: 24px;
+    }
+    .book-occup:after,
+     .occup-det-block1 .book-occup:after{
+    right: -13px;
+    }
+    .occup-payment-detail {
+    width: 374px;
+    }
+    .occup-det-one {
+    width: calc(100% - 411px);
+    }
+    .occup-det-one .co-liv-content {
+    margin-right: 12px;
+    margin-bottom: 140px;
+    }
+    .occup-det-block1 .booking-house {
+    width: calc(100% - 286px);
+    }
+    .occup-det-block1 .book-occup {
+    margin-right: 18px;
+    }
+    .my-account-tabs .nav-tabs>li {
+    width: 30%;
+    }
+  
+      .svisit-outer ul li h2 {
+    font-size: 16px;
+    }
+    .svisit-outer ul li h2 span {
+    font-size: 14px;
+    margin-left: 9px;
+    }
+    .svisit-outer ul li:first-child:after {
+    right: 9px;
+    top: -11px;
+    }
+    .banner-content h1 {
+    font-size: 53px;
+    padding-right: 91px;
+    }
+    .banner-content h1:after {
+    right: -53px;
+    top: -16px;
+
+    }
+	.banner-content h2 {
+        font-size: 64px;
+	}
+
+    .promise-content {
+    margin-left: 0px;
+    }
+
+	.sec-heading h2 {
+    font-size: 44px;
+	}
+	.sec-heading h2 span {
+    font-size: 50px;
+	}
+	.coliv-slider.owl-carousel {height: 428px;
+	}
+	.love-slid-content {
+    margin-top: 124px;
+	}
+	
+   
+}
+@media(max-width:1400px){
+	.upcoming-visit .booking-house figure {
+    margin: 15px 15px;
+	}
+	header.outer-header .change ul.si-sticky {
+    margin-left: 7% !important;
+	}
+	 .co-liv-content h2 span {
+    float: none;
+    display: block;
+    margin-top: 3px;
+	 }
+	 .co-liv-content .fm-occp h2 span {
+    display: inline-block;
+    margin: 0 6px 0 0;
+	 }
+	
+	.register-outer button.btn.logform-btn {
+    margin-bottom: 20px;
+    margin-top: 0;
+	}
+	.banner-content {
+    padding: 53px 60px 53px 30px;
+	}
+
+	.content-outer .form-group {
+    margin-bottom: 18px;
+	}
+	.content-outer input {
+    height: 54px;
+	}
+	.register-outer .content-outer {
+    padding-left:37px;
+		padding-right:37px
+	}
+
+	.banner {
+    padding-top: 211px;
+    padding-bottom: 108px;
+	}
+	.change  .search-form {
+    width: 600px;
+	}
+	.banner-content h1:after {
+    background-size: 65px;
+    right: -30px;
+    top: 0;
+	}
+
+	.foot1.footer-content ul li:last-child a span {
+    font-size: 37px;
+	}
+	.foot1 ul li:last-child {
+    margin-right: 0;
+	}
+	section.promise-sec .sec-heading p {
+    font-size: 17px
+	}
+	.upcoming-visit .booking-house > figcaption {
+    width: 66%;
+    padding: 20px 10px 0 0;
+	}
+	.switch-plan {
+    width: 335px;
+	}
+	.upcoming-visit {
+    width: calc(100% - 373px);
+	}
+	.upcoming-visit .booking-house {
+    margin: 4px 10px 26px 6px;
+	}
+	.subscription-plan .upcoming-visit h2 {
+    margin-bottom: 24px;
+	}
+	.booking-house > figcaption {
+    width: 73%;
+	}
+	.his-b2 {
+    margin-left: 50px;
+	}
+    .banner::after {
+	top: 34px;
+    width: 94%;
+}
+
+	.co-slider {
+    padding-left: 15px;
+	}
+
+	.coliv-slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    height: 438px;
+	}
+	.login-bg-img figure {
+    height: 100vh;
+	}
+	.register-outer .login-bg-img figure {
+    height: 133vh;
+	}
+	.content-outer {
+    padding: 59px 66px 69px;
+	}
+	.welcome-sec {
+    background-position: top -18px center;
+    padding-top: 64px;
+    padding-bottom: 80px;
+	}
+	section.get-youliv {
+    background-position: bottom -74px right 0;
+	}
+	.love-slid-content {
+    margin-top: 107px;
+	}
+	.lat-lov-fig {
+    bottom: 0%;
+	}
+}
+@media(max-width:1350px){
+	.banner {
+    padding-top: 251px;
+    padding-bottom: 166px;
+    background-position:top -35px left -13px;
+	}
+	.banner-content {
+       width: 67%;
+	}
+
+	.sec-heading h2 {
+    font-size: 50px;
+	}
+	.love-slid-content {
+    margin-top: 117px;
+	}
+	
+	
+}
+@media(max-width:1300px){
+    .co-slider-btn a {
+    padding: 9px 0px;
+    }
+	.lat-lov-fig {
+    left: 5%;
+    bottom: 2%;
+	}
+	.change ul.nav.navbar-nav.sign-btn.si-sticky {
+    margin-left: 12%;
+	}
+
+    .select-form select {
+    width: 18%;
+    }
+    .work-in-content {
+    padding: 64px 24px;
+    margin: 0;
+    min-height: 415px;
+    }
+    section.get-in:after {;
+    width: 100%;
+    }
+    .con-in-content {
+    padding-left: 0;
+    }
+    .contact-in-outer {
+    width: 91%;
+    }
+    .empty:after {
+    width: 25%;
+    right: 0%;
+    top: -7px;
+    }
+   .request-form-outer form {
+    width: 82%;
+    }
+    .register-outer  .login-bg-img figure {
+    height: 116vh;
+    }
+	.amen-sec {
+    margin-top: -149px;
+	}
+   div#feedback-modal img {
+    margin: 3px 0 23px 0;
+	}
+	.account-form-in .content-outer .form-group {
+    width: 47%;
+	}
+	.account-form-in .content-outer .form-group input::placeholder,
+	.account-form-in .content-outer .form-group textarea::placeholder,
+	.account-form-in .content-outer .form-group select{
+		font-size:14px;
+	}
+    .welcome-sec {
+    background-position: top -18px center;
+    padding: 31px 0 74px;
+    }
+	.co-liv-sec {
+    padding: 64px 0 50px;
+	}
+	.book-occup {
+    margin-right: 13px;
+	}
+	.book-occup:after {
+    right: -9px;
+	}
+  section.property-detail-sec3 .co-slider-btn a {
+    width: 26.4%;
+    }
+    .my-subs {
+    width: 298px;
+    margin-right:30px;
+    }
+    .my-subs .monthly-pay-price {
+    padding: 54px 36px;
+    }
+    .subs-pay {
+    width: calc(100% - 334px);
+    }
+    .banner-content {
+    padding: 75px 35px;
+    }
+    .banner-content h1 {
+    font-size: 50px;
+    padding-right: 88px;
+    }
+    .banner-content h2 {
+    font-size: 68px;
+    }
+    .banner-content h1:after {
+    top: 0px;
+    right: -73px;
+    background-size: 72px;
+    }
+    .banner {
+    padding: 251px 0 150px;
+    }
+  
+    .latest-love-outer {
+    padding: 39px 92px;
+    }
+    .welcome-sec p,
+    section.promise-sec .sec-heading p,
+    .get-liv-content p{
+    font-size: 16px;
+    line-height: 28px;
+    }
+    .work-in-content {
+    margin-bottom: 30px;
+    }
+    .contact-in-sec:before {
+    background-size: 90%;
+    bottom: -26px;
+    left: 14%;
+    }
+    .con-in-content {
+    padding: 0;
+    }
+    .pd-price ul li figure {
+    margin-bottom: 14px;
+    }
+	.switch-plan {
+    width: 330px;
+	}
+	.my-subs .monthly-pay-price {
+    padding: 36px 14px;
+    width: 272px;
+	}
+	.switch-plan a {
+    font-size: 18px;
+    margin: 22px 0 28px;
+	}
+	.upcoming-visit .booking-house figure {
+    margin: 12px 12px;
+    height: 159px;
+    width: 172px;
+	}
+	.upcoming-visit .booking-house > figcaption {
+    padding: 0px 20px 0;
+    width: 100%;
+	}
+	.upcoming-visit .booking-house.pd-hs-detail h4 {
+    margin-bottom: 10px;
+    padding-left: 21px;
+    font-size: 13px;
+	}
+	.force-overflow {
+    max-height: 347px;
+	}
+	.acc-booking-div .pd-hs-detail h4 {
+    margin-bottom: 10px;
+	font-size:13px;
+	padding-left:20px;
+	}
+	.acc-booking-div .booking-house > figcaption {
+    width:68%;
+    padding: 18px 9px 10px 10px;
+	}
+	.acc-booking-div .pd-price ul li figure {
+    margin-bottom: 0px;
+	}
+	.pay-card-det {
+    padding: 20px 16px;
+	}
+	.pay-card-det p {
+    font-size: 14px;
+	}
+	.his-b2 {
+    margin:20px  0px -20px;
+	}
+	.monthly-pay-price .co-slider-btn a {
+    font-size: 14px;
+     padding: 13px 10px;
+	}
+	.swt-body {
+    padding: 11px 0;
+	}
+	.monthly-pay-price > p {
+    font-size: 14px;
+    margin: 20px 0 28px;
+    line-height: 20px;
+	}
+	.monthly-main h1 {
+    font-size: 31px;
+	}
+	.booking-house .co-slider-btn a.now-book {
+    margin-right: 5px;
+	}
+	.upcoming-visit .booking-house .co-slider-btn a {
+    font-size: 13px;
+	}
+	.upcoming-visit ul li h2, .book-historyy .pd-price ul li h2 {
+    font-size: 15px;
+    font-weight: 600;
+	}
+	.upcoming-visit ul li h2 span, .book-historyy .pd-price ul li h2 span {
+    font-size: 13px;
+	}
+	.my-subs > h2, .subs-pay > h2 {
+    font-size: 22px;
+    margin-bottom: 33px;
+	}
+	.profile-block-sec h2 {
+    font-size: 22px;
+	}
+	.upcoming-visit h2 a {
+    font-size: 15px;
+	}
+	.profile-sidebar ul li {
+    padding: 18px 0 18px 16px;
+	}
+	.profile-sidebar ul li a span {
+    margin-right: 12px;
+	}
+	.booking-house > figcaption {
+    width: 71%;
+	}
+}
+@media(width:1280px){
+	header .in-header-outer,
+	.change{
+    padding: 6px 0 6px !important;
+	}
+	.banner-content h1:after {
+    top: -11px;
+	}
+	.change ul.nav.navbar-nav.sign-btn.si-sticky {
+    margin-left: 7%;
+	}
+	.love-slid-content p {
+    height: 140px;
+	}
+
+	.welcome-sec {
+    background-position: top 33px center;
+	}
+	.logo-div {
+    width: 203px;
+    padding: 6px;
+	}
+	.banner {
+    padding: 200px 0 210px;
+	}
+
+	.banner-content {
+    padding: 60px 35px;
+	}
+	form.banner-form {
+    margin-top: 51px;
+	}
+	.login-bg-img figure {
+   height: 106vh;
+	}
+	.register-outer .login-bg-img figure {
+    height: 149vh;
+	}
+	.contact-in-sec {
+    background-position: center right 56%;
+	}
+	.logform-btn {
+    width: 97%;
+	}
+	form.banner-form .form-group:first-of-type {
+    width: 72%
+	}
+	.upcoming-visit .booking-house.pd-hs-detail h4 {
+    font-size: 12px;
+	}
+	.banner-form .form-group input,
+	form.banner-form button.btn{
+    height: 68px;
+	}
+	.coliv-slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    height: 413px ;
+	}
+	.co-slider {
+    padding-top: 68px;
+	}
+	.latest-love-sec {
+    padding: 61px 0 135px;
+	}
+	.get-liv-content {
+    padding-top: 47px;
+	}
+	section.get-youliv {
+    background-position: bottom -102px right 0;
+	}
+	.occup-det-one .co-liv-content {
+    width: 209px !important;
+	}
+	.occup-det-block1 .booking-house {
+    width: calc(100% - 221px);
+	}
+	.book-month-sub h2 span {
+    font-size: 13px;
+    margin-left: 5px;
+	}
+	.profile-sidebar {
+    margin-top: 85px;
+	}
+
+}
+
+ @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait)  {
+
+     .log-cstm-radio {
+    margin-top: 54px;
+     }
+	 .co-slider-btn a {
+    font-size: 12px;
+	 }
+	 .co-liv-content figcaption {
+    padding: 10px 6px 16px;
+	 }
+	.coliv-slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    height: 384px;
+	 }
+	 section.promise-sec .sec-heading {
+    background: #fff;
+    padding: 51px 18px 0 !important;
+    text-align: center;
+    width: 100% !important;
+	 }
+	 .city-slider-outer {
+		 padding: 60px 0 30px;
+	 }
+	 .promise-content {
+    width: 100% !important;
+    padding: 53px 18px 30px !important;
+    margin-top: -1px;
+	 }
+   
+     .form-group {
+    margin-bottom: 34px;
+     }
+      .register-form,
+     .login-bg-img{
+    width: 100%;
+    }
+    .register-outer .login-bg-img figure img {
+    -o-object-fit: contain;
+       object-fit: contain;
+    }
+    .login-bg-img figure,
+     .content-outer{
+    height: auto !important;
+    min-height: auto !important
+    }
+     .contact-in-outer {
+    width: 100% !important;
+    padding: 0 0 0 48px !important;
+    margin-left: -15px;
+     }
+     .contact-in-sec {
+    background-position: left -428px center !important;
+     }
+     .contact-in-sec:before {
+    background-size: 78%;
+    bottom: -92px;
+     }
+    .neighbour ul li {
+    width: 15.4%;
+     }
+    .svisit-outer ul li:first-child:after {
+    right: 6px !important;
+    }
+	 .booknow-body .pd-price ul li {
+    width: 40%;
+	margin-top: 14px;
+	 }
+	 section.get-youliv {
+    background-position: bottom -90px right 0;
+	 }
+	 .banner-content h1:after {
+    top: 0;
+	 }
+	 .search-form .banner-form .form-group input {
+    padding-right: 161px;
+	 }
+	 .change ul.nav.navbar-nav.sign-btn.si-sticky {
+    margin-left: 3.9%;
+    margin-top: 1px;
+	 }
+}
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape)  {
+	.register-outer .content-outer {
+    height: 132vh;
+	}
+	.search-form .banner-form .form-group input {
+    padding-right: 222px;
+	}
+	.change ul.nav.navbar-nav.sign-btn.si-sticky {
+    margin-left: 8%;
+	}
+	
+}
+
+
+@media(max-width:1199px){
+	header .logo-div {
+    width: 216px;
+	}
+	.lat-lov-fig {
+    left: 15%;
+    bottom: 7%;
+	}
+	.change ul.nav.navbar-nav.sign-btn.si-sticky {
+    margin-left: 3%;
+	}
+	.search-form .banner-form .form-group input, .search-form form.banner-form button.btn {
+    height: 44px;
+	}
+	.change .search-form form.banner-form button.btn-search {
+    padding: 10px 8px;
+	}
+	.change .search-form form.banner-form button.btn-search img,
+	.change .search-form form.banner-form button.btn.btn-loc img{
+    width: 20px;
+	}
+	.change .search-form form.banner-form .form-group:first-of-type button.btn.btn-search {
+    right: 110px;
+	}
+	.change .search-form {
+    width: 427px;
+    margin-top: 7px;
+	}
+	.change .search-form form.banner-form button.btn-loc {
+    font-size: 15px;
+	}
+	.change .search-form form.banner-form button.btn-loc span {
+    margin-right: 7px;
+	}
+	
+	.city-slider-outer ul li:first-child {
+    padding-left: 0;
+	}
+	
+    .banner {
+    background-position: center right 53%;
+    }
+	form.banner-form, .select-form {
+    text-align: left;
+	}
+	form.banner-form.loc-form .form-group:nth-of-type(2) {
+    width: 55.4%;
+	}
+	
+	.amen-sec {
+    margin-top: 0;
+	}
+ 
+	.login-bg-img figure {
+    height: 149vh;
+	}
+    .banner-content h1 {
+    font-size: 38px;
+        padding-right: 114px;
+    }
+	div#subscription-modal .pd-modal {
+    width: auto;
+	}
+    .banner-content h1:after {
+    right: -16px;
+    top: -10px;
+    }
+    .banner-content h2 {
+    font-size: 49px;
+    }
+    form.banner-form .form-group:first-of-type {
+    width: 62%;
+    }
+	
+	.loc-colivv .co-slider-btn {
+    margin-top: 32px;
+	}
+	.loc-pro-outer .co-liv-content h4 {
+    font-size: 13px;
+	}
+    .banner-form .form-group input,
+    form.banner-form button.btn{
+    height: 64px;
+    }
+    .inner-container {
+    padding: 0 30px;
+    }
+    .req-btn a.req-quote {
+   right: -54.77px;
+    top: 50%;
+    font-size: 14px;
+    padding: 9px 19px;
+    }
+   .welcome-sec-outer {
+    padding: 0 0px;
+    }
+    .welcome-sec {
+    background-position: left bottom -27px;
+	}
+	div#switch-plan-modal .pd-modal {
+    width: auto;
+    top: 61px;
+    margin: 15px;
+	}
+    .co-slider-btn a {
+    padding: 9px 0px;
+    }
+    .owl-carousel.latest-loveslider {
+    width: 93%;
+    }
+  
+ 
+    .promise-content li p {
+    font-size: 15px;
+    line-height: 21px;
+    }
+    .promise-content li h2 {
+    font-size: 16px;
+    margin-top: 18px;
+    margin-bottom: 5px;
+    }
+    .promise-content ul li {
+    margin: 0 10px 31px 0;
+    }
+    .promise-content {
+    width: calc(100% - 33%);
+    padding: 55px 18px ;
+    }
+    section.promise-sec .sec-heading {
+    padding-top: 50px;
+    width: 31%;
+    }
+    .get-liv-content {
+    padding-top: 88px;
+    padding-right: 0px;
+    }
+    .get-live-img {
+    margin-top: 100px;
+    }
+    a.app-store {
+    margin-right: 12px;
+    }
+    .play-btn:after {
+    width: 28%;
+    }
+    .select-form select {
+    width: 26%;
+    margin-bottom: 26px;
+    }
+    header .sign-btn a.partner-btn:hover {
+    background: #f02462;
+    -webkit-box-shadow: 7px 7px 0px #ce1950;
+    box-shadow: 7px 7px 0px #ce1950;
+    -webkit-transition: all 0.5s ease-in-out;
+    }
+    header .sign-btn a.log-sign:hover {
+    -webkit-box-shadow: 7px 7px 0px #0f2c54;
+            box-shadow: 7px 7px 0px #0f2c54;
+    -webkit-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    background: #09418c;
+    }
+    
+     a.now-book:hover{
+    background: #f02462;
+    color: #fff;
+    }
+    .req-btn a.req-quote:hover{
+            background: #fccc22;
+    color: #244482;
+    }
+    a.visit-book:hover {
+    background: #fedd03;
+    color:#34405b
+    }
+    .loc-pro-slider .owl-nav button:hover {
+    background:#375c8b !important
+    }
+    .work-in-sec .sec-heading,
+	.switch-plan,.my-subs{
+    width: 100%;
+    }
+    .work-in-content h1 {
+    margin-bottom: 6px;
+    min-height: 48px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    }
+    .content-outer {
+    padding: 100px 0px 69px;
+    }
+    .content-outer.contact-in-outer {
+    padding: 20px 0px 69px;
+    }
+    .empty:after {
+    width: 30%;
+    right: 0%;
+    top: 3px;
+    }
+    .contact-in-sec {
+    background-position: left -494px center;
+    }
+    .contact-in-sec:before {
+    left: 3%;
+    }
+    section.property-detail-sec3 .co-slider-btn a {
+        width: 38%;
+    }
+    .neighbour,.rating-pd,.direct-pd {
+    margin-top: 52px;
+    }
+    .visit-body {
+    padding: 48px 39px;
+    }
+    .booknow-body .pd-price ul li a.select-room {
+    min-width: 123px;
+    }
+ 
+    section.profile-sidebar ul li {
+    padding: 18px 0 18px 24px;
+    }
+    .profile-block-sec {
+    width: calc(100% - 322px);
+    margin-right: 0;
+    }
+    .booking-house > figcaption {
+    width: 100%;
+    padding:15px 15px
+    }
+    .choose-occupy ul li {
+    margin-right: 42px;
+    }
+    .occup-det-block1 .booking-house,
+     .request-form-outer form,
+    .account-form-in .conatc-info-acc .content-outer
+    .subs-pay{
+    width: 100%;
+    }
+    .occup-det-one .co-liv-content {
+    margin-right: 0px;
+    margin-bottom: 38px;
+    }
+    .occup-det-one {
+    width: calc(100% - 317px);
+    }
+    .occup-payment-detail-sub {
+    padding: 40px 12px 0;
+    }
+    .occup-payment-detail {
+    width: 296px;
+    }
+    .detail-counter .form-group a {
+    padding: 9.5px 16px;
+    }
+  
+    .pd-price ul li .book-month-sub h2 {
+    margin-bottom: 8px;
+    }
+    .my-account-tabs .nav-tabs>li {
+    width: 33%;
+    }
+    .my-account-tabs .nav-tabs>li>a {
+    line-height: 24px;
+    font-size: 17px;
+    }
+    .account-form-in figure {
+    width: 88px;
+    margin-right: 14px
+    }
+    .account-form-in .content-outer .log-cstm-radio {
+    margin-left: 11px;
+    }
+   
+    .my-subs .monthly-pay-price {
+    width: 65%;
+    margin: 0 auto;
+    padding: 68px 36px;
+    }
+	.monthly-pay-price .co-slider-btn a {
+    padding: 13px 2px;
+	}
+	.swt-body ul li {
+    width: 32%;
+	}
+	.upcoming-visit {
+    width: 100%;
+    margin-top: 43px;
+	}
+	.upcoming-visit .booking-house > figcaption {
+    padding: 10px 10px 0 0;
+    width: 67%;
+	}
+	.acc-booking-div .booking-house > figcaption {
+    width: 100%;
+    padding: 18px 16px 10px 16px;
+	}
+    .svisit-outer ul li:first-child:after {
+    right: 20px;
+    }
+    .account-form-in .loc-pro-outer .co-slider-btn a,
+    .occup-det-block2 form .form-group,
+    .occup-det-block2 form .form-group select {
+    width: 100% !important;
+    }
+	.account-form-in .occup-det-block2 form .form-group{
+		width:48% !important;
+	}
+	.account-form-in .occup-det-block2 form .form-group.select-grop-occ select {
+    width: 48% !important;
+	}
+	.account-form-in .occup-det-block2 form .form-group.select-grop-occ {
+    width: 100% !important;
+	}
+	.account-form-in .occup-det-block2 form .form-group.left-group-oc{
+		float:right;
+	}
+    .occup-det-block2 form .form-group.left-group-oc {
+    float: none;
+    margin-left: 0;
+    }
+	.loc-colivv .locpro-slid {
+    width: 322px;
+	}
+	.loc-colivv .co-liv-content figcaption {
+    width: calc(100% - 324px);
+	padding: 20px 13px;
+		padding-bottom: 0;
+	}
+	.profile-photo figure {
+    width: 155px;
+    height: 134px;
+	}
+	.profile-sidebar ul li a {
+    font-size: 14px;
+	}
+	.profile-sidebar ul li a span {
+    margin-right: 8px;
+    font-size: 23px;
+	}
+	aside {
+    height: 4000px;
+	}
+	.his-b2 {
+    margin: 0 0 0 50px;
+	}
+}
+
+
+@media(max-width:991px){
+ 
+   header .sign-btn a {
+    padding: 15px 13px;
+    }
+	.change .search-form {
+    width: 481px;
+	}
+	.banner-content h1 {
+    padding-right: 67px;
+	}
+	header .change ul.sign-btn li.sign-logg {
+    display: none;
+	}
+	.latest-love-outer {
+    padding: 39px 28px;
+	}
+	.search-form .form-group select {
+    height: 44px;
+    width: 254px;
+	}
+	.search-form .form-group  input{
+	 height: 44px;	
+	}
+	.change ul.nav.navbar-nav.sign-btn.si-sticky {
+    margin-left: 6px;
+	}
+    .banner-content {
+    width: 81%;
+    }
+    .banner-content h1:after {
+    right: -51px;
+    background-size: 69px;
+    top: -8px;
+    }
+    .sec-heading h2 {
+    font-size: 42px !important;
+    }
+    .welcome-sec p {
+    font-size: 15px !important;
+    line-height: 26px;
+    margin-top: 0px;
+    }
+    .welcome-sec a {
+    font-size: 18px;
+    margin-top: 49px;
+    }
+    .welcome-sec {
+    background-position: left bottom -34px;
+    padding: 100px 0;
+    }
+    .welcome-list ul li h4 {
+    font-size: 15px;
+    margin-top: 15px;
+    }
+    .love-slid-content {
+    margin-top: 118px;
+    }
+  
+  
+    section.promise-sec .sec-heading {
+    background: #fff;
+    padding: 51px 18px 0;
+    text-align: center;
+    width: 100%;
+    }
+	.loc-colivv .property-like span {
+    left: 291px;
+	}
+	.loc-colivv .property-like span.white-heart {
+		left: 288px;
+	}
+    .promise-content {
+    width: 100%;
+    padding: 53px 18px 0;
+    margin-top: -1px;
+    }
+    .promise-sec:before {
+    height: 12%;
+    left: -56px;
+    top: 92px;
+    }
+    .get-liv-content p {
+    margin-top: 0px;
+    font-size: 14px;
+    line-height: 26px;
+    }
+    .play-btn a {
+    width: 138px;
+    }
+    .play-btn:after {
+    width: 40%;
+    height: 200px;
+    }
+    .sec-heading h2 span {
+    font-size: 43px !important;
+    }
+    .creat-acc {
+    margin-bottom: 65px;
+    }
+   .sm-device figure {
+    margin-bottom: 0;
+    }
+    .request-form-outer form {
+    padding: 34px 22px;
+    }
+    .register-outer .cstm-checkbox {
+    padding-left: 0;
+    }
+    .register-outer .login-bg-img figure {
+    height: 123vh;
+    }
+    .select-form select,
+	.select-form label.cstm--check{
+    font-size: 14px;
+    }
+	.select-form label.cstm--check{
+		padding-left: 27px;
+	}
+	.select-form select {
+    width: 24%;
+	}
+	.cstm-checkbox.food-av {
+    margin-right: 22px;
+	}
+    form.banner-form.loc-form .form-group:first-of-type {
+    width: 167px;
+    margin-right: 13px;
+    }
+    form.banner-form.loc-form .form-group input::-webkit-input-placeholder{
+    font-size: 16px;
+    height: 58px;
+    }
+    form.banner-form.loc-form .form-group input::-moz-placeholder{
+    font-size: 16px;
+    height: 58px;
+    }
+    form.banner-form.loc-form .form-group input:-ms-input-placeholder{
+    font-size: 16px;
+    height: 58px;
+    }
+    form.banner-form.loc-form .form-group input::-ms-input-placeholder{
+    font-size: 16px;
+    height: 58px;
+    }
+    .form-group.select-group select,
+    form.banner-form.loc-form .form-group input::placeholder,
+    form.banner-form.loc-form button.btn{
+    font-size: 16px;
+    height: 58px;
+    }
+    form.banner-form.loc-form .form-group input {
+    height: 57px;
+    }
+    .work-in-content {
+    margin-bottom: 38px;
+    }
+   .my-subs .monthly-pay-price {
+    width: 94%;
+	}
+	.upcoming-visit .booking-house > figcaption {
+    padding: 0 10px 10px;
+    width: 100%;
+	}
+	.upcoming-visit .booking-house .co-slider-btn a {
+    font-size: 12px;
+	}
+	.my-account-tabs .nav-tabs>li>a {
+    line-height: 20px;
+    font-size: 16px;
+	}
+	.acc-booking-div figure,
+	.book-historyy figure{
+    width: 100%;
+		text-align: center;
+		margin-top:10px
+	}
+	.loc-pro-outer .co-slider-btn a {
+    padding: 10px 13px;
+	}
+	.loc-colivv .co-slider-btn {
+    margin-top: 23px;
+    text-align: left;
+	}
+	.loc-colivv .property-like span.white-heart {
+		top: 4px;
+	}
+	.select-form {
+    text-align: left;
+	}
+	.checkmark {
+    top: -1px;
+	}
+	.my-account-tabs {
+    padding: 30px 20px;
+	}
+	.pay-card-det ul li {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 13px 0px;
+	}
+	.pay-card-det h4 span {
+    text-align: left;
+	}
+  .loc-colivv .locpro-slid {
+    height: 210px;
+	}
+    .empty:after {
+    width: 39%;
+    }
+    .neighbour ul li {
+    width: 18%;
+    }
+    .pd-modal {
+    width: auto;
+    margin: 30px 16px;
+    }
+    .profile-block-sec {
+    padding: 26px 16px;
+    }
+    .booking-house h2 {
+    font-size: 18px;
+    }
+    .booking-house span.book-id {
+    font-size: 14px;
+    }
+    .book-occup:after {
+    display:none;
+    }
+    .book-occup {
+    margin: 20px 0;
+    }
+    .booking-house .co-slider-btn a {
+    padding: 9px 6px;
+    }
+    .pd-hs-detail  span.book-cancle-btn {
+    font-size: 14px;
+    padding: 1px 9px;
+    }
+    .choose-occupy ul li {
+    width: 42%;
+    margin-bottom: 67px;
+    }
+    .pre-request {
+    padding: 24px 24px;
+    }
+    .pre-request h2 span.rq-date {
+    font-size: 16px;
+    display: block;
+    margin-top: 14px;
+        float: none;
+    }
+    .pre-request h2 span.rq-date span {
+    font-size: 14px;
+    }
+    .my-account-tabs .nav-tabs>li>a {
+    height: 80px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+    .pay-card-det p span {
+    float: none;
+    display: block;
+    }
+    .pay-card-det > p {
+    margin:20px 0 34px;
+    }
+    .svisit-outer ul li h2 {
+    margin-bottom: 17px;
+    }
+    .svisit-outer ul li:first-child:after {
+    right: 12px;
+    top: -1px;
+    height: 90%;
+    }
+    .about-in-sec:after {
+    height: 14%;
+     bottom: 4%; 
+    }
+	.account-form-in .content-outer .form-group,
+	.account-form-in .occup-det-block2 form .form-group,
+	.account-form-in .occup-det-block2 form .form-group.select-grop-occ select	{
+    width: 100% !important;
+	}
+	.account-form-in .occup-det-block2 form .form-group.left-group-oc {
+    float: none;
+	}
+	.account-form-in .content-outer .form-group{
+		margin-left:0;
+	}
+	.account-form-in figure {
+    width: auto;
+    margin-right: 0;
+    margin-bottom: 20px;
+	}
+	aside {
+    width: 26%;
+	}
+	main {
+    width: calc(100% - 35%);
+    margin-left: 24px;
+	}
+	.his-b2 {
+    margin: 10px 0 0;
+	}
+	.pd-hs-detail h4 {
+    padding-left: 27px;
+	}
+	.pay-card-det ul {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+	}
+	.profile-block-sec ul li > p{
+    width: 100%;
+	}
+	header .logo-div {
+    width: 22%;
+	}
+	header .change .logo-div {
+	margin-top: 8px;
+	}
+	.lat-lov-fig {
+    bottom: 4%;
+	}
+	section.get-youliv {
+    background-position: bottom -169px right 0;
+		padding: 0 30px 70px;
+	}
+	.my-account-tabs .nav-tabs>li>a {
+    justify-content: center;
+	}
+
+	group:nth-of-type(2) {
+    width: 46%;
+	}
+	form.banner-form.loc-form .form-group:nth-of-type(2) {
+    width: 46%;
+	}
+	form.banner-form {
+    text-align: left;
+    margin-top: 36px;
+	}
+	section.loc-pro-sec {
+    padding-top: 29px;
+	}
+	.city-slider-outer ul li:first-child {
+    width: 20%;
+	text-align: center;
+		
+	}
+	.city-slider-outer ul li {
+    display: inline-block;
+    width: 22%;
+    margin: 0 9px;
+	}
+	.ciity-blocks h2 {
+    font-size: 16px;
+	}
+	.happy-customer-num h2 {
+    font-size: 34px;
+	}
+	.happy-customer-num p {
+    font-size: 15px;
+	}
+	.ciity-blocks {
+    min-height: 222px;
+	}
+	.city-slider-outer {
+    padding-bottom:20px;
+	}
+	.change .search-form {
+    margin-top: 3px;
+	}
+	.change ul.nav.navbar-nav.sign-btn.si-sticky {
+    margin-left: 2.5%;
+	}
+
+}
+@media(max-width:812px){
+	section.co-liv-sec {
+    padding-bottom: 44px;
+	}
+	.tabcontent ul li:last-child {
+    margin-bottom: 15px;
+	}
+	.coliv-slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    height: 400px;
+	}
+	.banner-content h1:after {
+    background-size: 52px;
+    top: -11px;
+	}
+	.banner {
+    background-position: center right 68%;
+	}
+	.change .search-form {
+    margin-top: 0;
+	}
+	
+}
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait){
+
+	
+	.banner-content h1 {
+    font-size: 30px;
+	}
+	.change ul.nav.navbar-nav.sign-btn.si-sticky {
+    margin-left: 0.5%;
+	}
+	.city-slider-outer {
+    padding: 60px 0 20px;
+	}
+	.banner-form .form-group input, form.banner-form button.btn {
+    height: 49px;
+	}
+	.banner {
+    padding: 188px 0 107px;
+	}
+	.banner-content h2 {
+    font-size: 40px;
+    PADDING-LEFT: 0;
+	}
+	.banner-content {
+    width: 72%;
+		padding: 44px 30px;
+	}
+	.banner-content h1:after {
+    right: -44px !IMPORTANT;
+	}
+	.login-header .dropdown-menu {
+    left: -150px;
+
+	}
+	.coliv-slider .owl-dots {
+    left: 45% !important;
+	}
+
+    .register-form,
+     .login-bg-img{
+    width: 100% !important;
+    }
+     .login-bg-img figure img {
+    -o-object-fit: contain !important;
+       object-fit: contain !important;
+    }
+     .login-bg-img figure,
+    .content-outer{
+    height: auto !important;
+        min-height: auto !important
+    }
+    .about-in-sec {
+    background-position: left center;
+    padding: 68px 0 92px;
+    }
+    .empty:after {
+    width: 37%;
+    }
+    .req-btn a.req-quote {
+    top: 32%;
+    right: -54px;
+    }
+    .content-outer.contact-in-outer {
+    padding: 21px 0px 31px;
+    }
+    .contact-in-sec {
+    background-position: left -485px center;
+    }
+    .contact-in-sec:before {
+    left: 4%;
+    background-size: 84%;
+    bottom: -60px;
+    }
+	.banner {
+    background-position: center right 65%;
+	}
+	section.get-youliv {
+    background-position: bottom -190px right 0;;
+	}
+	.love-slid-content p {
+    height: 168px;
+	}
+	header .change ul.sign-btn li.side-curtain span img {
+    margin-top: 6px;
+	}
+    
+}
+@media all and (device-width: 1024px) and (device-height: 768px) and (orientation:landscape){
+    .register-outer .login-bg-img figure {
+    height: 129vh;
+    }
+	 .co-slider-btn a {
+    font-size: 12px;
+	 }
+	 .co-liv-content figcaption {
+    padding: 10px 6px 16px;
+	 }
+	 .co-liv-content h2 span {
+    float: none;
+    display: block;
+    margin-top: 3px;
+	 }
+	 .co-liv-content .fm-occp h2 span {
+    display: inline-block;
+    margin: 0 6px 0 0;
+	 }
+	.coliv-slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    height: 399px;
+	}
+	
+	section.get-youliv {
+    background-position: bottom -119px right 0px;
+    padding-top: 10px;
+	}
+    .neighbour ul li:after {
+    right: 36px;
+    }
+		.login-bg-img figure {
+    height: 102vh;
+	}
+	.banner {
+    background-position: center right 75%;
+	}
+	section.co-liv-sec {
+    padding-bottom: 74px;
+	}
+    .svisit-outer ul li:first-child:after {
+    right: 5px;
+    }
+    .content-outer.contact-in-outer {
+    padding: 0px 0px 69px;
+    }
+    .contact-in-sec {
+    background-position: left -482px center;
+    }
+	.logform-btn {
+    width: 97%;
+	}
+	.change ul.nav.navbar-nav.sign-btn.si-sticky {
+    margin-left: 4%;
+	margin-top: 1px;
+	}
+   
+}
+
+@media(max-width:767px){
+ 
+    header .sign-btn {
+    display: inline-block;
+    margin: 0;
+    text-align: right;
+    }
+	header ul.nav.navbar-nav.sign-btn.si-sticky, header .change ul.nav.navbar-nav.sign-btn.si-sticky, header ul.sign-btn li.side-curtain span img.whit-bar {
+    display: none;
+	}
+
+    .req-btn a.req-quote,
+    .req-btn a.req-quote:hover{
+    background: #09418c;
+    color: #fff;
+    }
+    header .sign-btn a.partner-btn {
+    margin-right: 7px;
+    }
+    .banner {
+    background: none;
+    padding: 113px 0 0;
+    }
+    .banner-content h1 {
+    font-size: 30px;
+    }
+    .banner-content h2 {
+    font-size: 38px;
+    padding-left: 0px;
+    }
+    form.banner-form {
+    margin-top:46px;
+	text-align: left;
+    }
+    .banner-form .form-group input, form.banner-form button.btn {
+    height: 49px;
+    }
+	.banner-form .form-group input {
+    padding-right: 158px;
+	}
+	.search-form .banner-form .form-group input {
+    padding-right: 60px;
+	}
+    
+    form.banner-form .form-group:first-of-type {
+        width: 283px
+    }
+	form.banner-form button.btn-search {
+    padding: 10px 12px;
+	}
+    form.banner-form button.btn-loc {
+    margin-left: -4px;
+    font-size: 14px;
+    }
+	button.btn-loc img {
+    width: 18px;
+    vertical-align: middle;
+	}
+    .banner-form .form-group input::-webkit-input-placeholder{
+        font-size:11px;
+        padding-left: 0
+    }
+    .banner-form .form-group input::-moz-placeholder{
+        font-size: 11px;
+        padding-left: 0
+    }
+    .banner-form .form-group input:-ms-input-placeholder{
+        font-size: 11px;
+        padding-left: 0
+    }
+    .banner-form .form-group input::-ms-input-placeholder{
+        font-size: 11px;
+        padding-left: 0
+    }
+    .banner-form .form-group input::placeholder{
+        font-size: 11px;
+        padding-left: 0
+    }
+    .about-in-sec {
+    background-position: top -91px left;
+    padding: 132px 0 119px;
+    }
+	button.btn.btn-search img {
+    width: 20px;
+	}
+    .about-in-sec:after {
+    bottom: 2px;
+    }
+    section.get-in:after {
+    height: 11%;
+    }
+    form.banner-form button.btn-loc span {
+    margin-right: 3px;
+    }
+   .banner-content h1:after {
+         right: -11px;
+    background-size: 48px;
+    top: 0;
+    height: 164px;
+    width: 64px;
+
+    }
+    .welcome-list ul li h4 {0
+     margin-top:0; 
+    }
+    .banner-content {
+    width: 100%;
+    padding: 34px 15px;
+    }
+    header .logo-div {
+    width: 141px;
+    margin-right: 16px;
+    }
+    .cstm-container {
+    padding: 0px 15px;
+    }
+    .welcome-sec a {
+    margin-top: 24px;
+    margin-bottom: 47px;
+    padding: 12px 16px;
+    }
+    .co-liv-content figcaption {
+    padding: 10px 10px;
+    }
+    .co-slider-btn a {
+    font-size: 12px;
+    }
+    .latest-love-sec {
+    padding: 98px 0 20px;
+    }
+    .promise-content ul li {
+    width: 47%;
+    }
+    .foot1 {
+    margin-bottom: 30px;
+    }
+    .foot2 {
+    padding-left: 0;
+    }
+    .foot3 {
+    margin-top: 36px;
+    }
+    .latest-love-outer {
+    background-position: center;
+    background-size: cover;
+    padding: 3px 15px;
+    margin-top: 0;
+    }
+    .love-slid-content p {
+       font-size: 14px;
+    }
+    .love-slid-content {
+    min-height: 299px;
+    margin-top: 100px;
+    }
+    .love-slid-content figure {
+    height: 80px;
+    width: 80px;
+    border: 4px solid #d0d0d0;
+	margin: 0 10px 10px 0;
+    }
+    .love-slid-content h2 {
+    color: #fff;
+    }
+    .forget-link {
+    text-align: center;
+    }
+    .logform-btn:hover::before{
+        display: none !important;
+    }
+    .logform-btn:hover span{
+        color:#274181 
+    }
+  
+    .welcome-sec a:hover {
+    -webkit-box-shadow: 7px 7px 0px #cfa01c;
+    box-shadow: 7px 7px 0px #cfa01c;
+    background:#fecc03;
+   color: #244482;
+    }
+    .inner-container {
+    padding: 0 15px;
+    }   
+    form.banner-form.loc-form .form-group:first-of-type {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 24px;
+    }
+    form.banner-form.loc-form .form-group:nth-of-type(2) {
+       width:100%;
+		position:relative;
+    }
+	form.banner-form.loc-form .form-group:nth-of-type(2) button.btn.btn-search {
+    right: 112px;
+	}
+form.banner-form.loc-form .form-group:nth-of-type(2) button {
+    position: absolute;
+    right: 0;
+    top: 2px;
+    cursor: pointer;
+	}
+	.loc-colivv .locpro-slid {
+    width: 100%;
+	}
+	.loc-colivv .co-liv-content figcaption {
+    width: 100%;
+    padding: 20px 13px !important;
+	}
+	.loc-colivv .property-like span {
+    left: unset;
+    right: 11px;
+	}
+	.loc-colivv .property-like span.white-heart {
+    left: unset;
+    right: 8px;
+	}
+	.subscription-sec .choose-occupy ul li {
+    width: 45%;
+	}
+    .select-form select {
+    font-size: 16px;
+    width: 100%;
+    margin:0 0 24px;
+    background-position: center right 25px;
+    }
+    .logo-div a {
+    display: block;
+    }
+    header .sign-btn a {
+    font-size: 13px;
+    padding: 9px 8px;
+    }
+    .select-form {
+    margin-top: 24px;
+    }
+    .req-btn a.req-quote {
+    right: -45.5px;
+    font-size: 13px;
+    padding: 8px 12px;
+    }
+    .work-in-content figure {
+    height: 74px;
+    }
+    section.contact-in-sec {
+    background: url(../images/contact-in-bg-s1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    padding-top: 130px;
+    }
+    .contact-in-sec:before {
+    left: 44%;
+    bottom: unset;
+    top: 20%;
+    background-size: 69% !important;
+    background: url(../images/contact-after-mob.png);
+    background-repeat: no-repeat;
+    }
+    .con-in-content {
+    padding-bottom: 142px;
+    }
+    .contact-in-outer {
+    width: 100%;
+    padding-top: 63px;
+    }
+    .content-outer {
+    min-height: auto;
+    padding: 55px 0px 0px;
+    }
+    .login-bg-img figure img {
+    -o-object-fit: contain;
+    object-fit: contain;
+    }
+	.creat-acc {
+    margin-bottom: 40px;
+	}
+	.logform-btn {
+	margin-bottom: 34px;
+	}
+    .login-bg-img figure {
+    height: auto !important;
+    }
+    .empty:after {
+    width: 48%;
+    }
+    .abt-content p {
+    padding-right: 28px;
+    margin-bottom: 23px;
+    }
+    .contact-in-outer .empty:after {
+    right: 31%;
+    }
+    .amen-sec ul li {
+    width: 30.6%;
+    }
+    .neighbour ul li {
+    width: 21%;
+    margin: 13px 12px 13px 0;
+    }
+    .neighbour ul li p{
+        font-size: 13px;
+    }
+    .neighbour ul li h2 {
+    font-size: 15px;
+    }
+    section.property-detail-sec3 .co-slider-btn a {
+    width: 46%;
+    font-size: 18px;
+    }  
+    .visit-body {
+    padding: 42px 15px;
+	text-align: center;
+    }
+    .visit-body ul li a {
+    padding: 8px 10px;
+}
+    .visit-body ul li {
+    width: 26%;
+    }
+    .sidesticky, .profile-sidebar {
+    width: 100%;
+    margin-right: 0;
+   position: static !important;
+    }
+     .profile-sidebar {
+    margin-top:100px;
+    }
+    .profile-photo {
+    padding: 51px 0;
+        margin: 0
+    }
+    .profile-block-sec {
+    width: 100%;
+    margin: 0;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    }
+    .book-occup,
+    .book-month-sub,
+    .occup-det-one,
+    .occup-payment-detail{
+    width: 100%;
+    float:none;
+    }
+    .choose-occupy ul li {
+    width: 90%;
+    margin-right: 0;
+    }
+    .choose-occupy > h1 {
+    font-size: 18px;
+    margin: 66px 0 58px;
+    }
+    .subscription-sec {
+    padding: 156px 0 80px;
+    }
+    .occup-payment-detail{
+    float:none;
+    margin-top: 40px;
+    }
+    .my-account-tabs {
+    -webkit-box-shadow: 0 0 20px #c3c3c3;
+            box-shadow: 0 0 20px #c3c3c3;
+    padding: 20px 20px 40px;
+    }
+    .account-form-in .content-outer .log-cstm-radio p {
+    margin-bottom: 20px;
+    }
+    .conatc-info-acc {
+    margin-top: -20px;
+    }
+    .svisit-outer ul li {
+    width: 100%;
+    padding: 0;
+    }
+    .svisit-outer ul li:first-child:after {
+    right: unset;
+    top: unset;
+    height: 1px;
+    width: 100%;
+    bottom: -2px;
+    left: 0px;
+    }
+    .svisit-outer .co-slider-btn a {
+    padding: 8px 20px;
+    }
+    .navbar-nav .open .dropdown-menu {
+    position: absolute;
+    background-color: #fff;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+            box-shadow: 0 6px 12px rgba(0,0,0,.175);
+        left: -284px;
+    }
+    .footer-content.foot1 figure img {
+    width: 34%;
+    }
+   .foot1 figure {
+    margin-bottom: 51px;
+    }
+    .content-outer.contact-in-outer {
+    padding: 126px 0px 69px;
+    }
+    .sign-btn a span.icon-notification {
+    font-size: 28px;
+    margin-right: 2px;
+    }
+    .occ-form-1 {
+    margin-top: 32px;
+    }
+	section.subscription-plan {
+    margin: 0 16px;
+    width: 93%;
+	}
+	.upcoming-visit h2 {
+    padding-bottom: 10px;
+	}
+
+	.coliv-slider > .owl-dots {
+    padding-top: 0;
+	}
+	.visit-header h2 {
+    font-size: 20px;
+    font-weight: 500;
+}
+	.visit-body h2 {
+    font-weight: 600;
+    font-size: 17px;
+	}
+	.visit-body p {
+    line-height: 20px;
+    font-weight: 400 !important;
+}
+	div#booknow-modal .visit-body ul.time-sl li {
+    width: 100%;
+    display: block;
+	}
+	.booknow-body .pd-price ul li {
+    width: 100%;
+	margin-top: 20px;
+	}
+	header .sign-btn > li > a {
+    font-size: 12px;
+    padding: 7px 6px;
+	}
+	header ul.sign-btn li.p-kist-btn:before {
+    left: -16px;
+    top: -16px;
+    height: 38px;
+    width: 34px;
+    background-size: 28px;
+	}
+	
+	.sign-btn a span.icon-notification:after {
+    top: 0px;
+	}
+	.swt-body ul li {
+       width: auto;
+    margin: 20px 42px;
+	}
+	.monthly-main h1 {
+    font-size: 27px;
+    margin: 15px 0 4px;
+	}
+	.monthly-pay-price h2 {
+    font-size: 21px;
+	}
+	.account-form-in h2{
+		margin:0;
+	}
+	.account-form-in h1 {
+    font-size: 16px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+	}
+	.account-form-in .content-outer .log-cstm-radio {
+    margin-left: 0;
+	}
+	.profile-sidebar {
+    min-height: auto;
+	}
+	.account-form-in .content-outer .form-group label {
+    font-size: 14px;
+	}
+	aside {
+    DISPLAY: none;
+	}
+	main {
+    width: 100%;
+    margin-left: 0;
+	}
+	.profile-sidebar.visible-xs {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 30px;
+	}
+	section.co-liv-sec {
+    padding-bottom: 48px;
+	}
+	.yellow-num-inner {
+    width: 100%;
+	}
+	.yellow-num {
+    width: 100%;
+    padding-right: 15px;
+	}
+	.yellow-num-inner > div {
+    margin-right: 12px;
+	}
+	.happy-customer-num h2 {
+    font-size: 30px;
+	}
+	.happy-customer-num p {
+    font-size: 14px;
+	}
+	.ciity-slider.owl-carousel {
+    width: 100%;
+		margin-top: 30px;
+		padding:0 15px
+	}
+	.love-slid-content span {
+    color: #fff;
+	}
+	.loc-colivv .co-slider-btn {
+    text-align: left;
+	}
+	.checkmark {
+    top: 0px;
+	}
+	.head.change ul.sign-btn li.search-form-list {
+    display: none;
+	}
+   .head.change ul.sign-btn.sign-btn-mobile, .head.change ul.sign-btn.sign-btn-mobile  li.search-form-list{
+	display:block;
+	   width:100%;
+	}
+	form.banner-form.main-b-form .form-group:first-of-type button.btn.btn-search {
+    right: 100px;
+	}
+	.overlay-content {
+    padding: 20px 15px 20px 15px;
+	}
+	.city-slider-outer ul li:first-child {
+    width: 100%;
+	}
+	.city-slider-outer ul li {
+    width: 30%;
+    margin: 0px 5px;
+	}
+	.ciity-blocks figure {
+    margin-bottom: 14px;
+    min-height: 150px;
+	}
+	.ciity-blocks {
+    min-height: 198px;
+		padding-bottom: 14px;
+	}
+	
+	.co-liv-content h2 span {
+    float: none;
+    display: block;
+    margin: 8px 0 10px;
+	}
+	.co-liv-content .fm-occp h2 span {
+    display: inline-block;
+    margin: 0 6px 0 0;
+	}
+	header .change .logo-div img {
+    width: 100%;
+	}
+
+	header .change .logo-div {
+    margin-top: 8px;
+    display: inline-block;
+    text-align: left;
+    width: 21%;
+    margin-bottom: 10px;
+	}
+	.change .search-form {
+    width: 100%;
+	}
+	.love-slid-content p {
+    height: 145px;
+	}
+	section.get-youliv {
+    background-position: bottom 43px right 0;
+    background-size: contain;
+		    padding: 10px 15px 80px;
+	}
+	.tabcontent ul li:last-child {
+    margin-bottom: 15px;
+	}
+	.welcome-sec {
+    background-position: left bottom 0px;
+    padding: 50px 0;
+    background-size: contain;
+	}
+	.lat-lov-fig {
+    position: absolute;
+    text-align: left;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    left: 0;
+	}
+	.change .search-form form.banner-form button.btn-loc {
+    display: none;
+	}
+	.change .search-form form.banner-form .form-group:first-of-type button.btn.btn-search {
+    right: 0;
+    padding: 3px 14px;
+	}
+	.logo-div img {
+    width: 100%;
+	}
+	.get-live-img {
+    margin-top: 0;
+	}
+	.req-btn a.req-quote {
+    top: 67%;
+	}
+	.change {
+    padding: 8px 0 20px;
+	}
+	.coliv-slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    height: 384px;
+	}
+	header ul.sign-btn li.side-curtain span img {
+    margin-top: 16px;
+	}
+
+
+}
+@media(max-width:570px){
+	.coliv-slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    height: 581px;
+	}
+}
+@media(max-width:480px){
+    header {
+    padding-top: 17px;
+    }
+	header ul.sign-btn li.side-curtain span img {
+    margin-top: 0;
+    left: 0;
+    top: 14px;
+	}
+	.tabcontent {
+    padding: 70px 15px 50px;
+	}
+	.get-liv-content {
+    padding-top: 45px;
+    padding-bottom: 45px;
+	}
+	section.get-youliv {
+    background-position: top right 0;
+	}
+	form.banner-form.main-b-form .form-group:first-of-type button.btn.btn-search {
+    right: 79px;
+	}
+
+    header .logo-div {
+    width: 100%;
+    margin: 0 0 10px;
+    text-align: center;
+    }
+    header .logo-div img {
+    width:36%;
+    }
+	header .change .logo-div {
+    width: 30%;
+	}
+  
+    .banner {
+    padding: 100px 0 0;
+    }
+    .head {
+    padding-top: 13px;
+    }
+	.head.change {
+    padding-top: 6px;
+	}
+	header .change ul.sign-btn li.side-curtain {
+    margin-top: 7px;
+	}
+    .banner-content h1 {
+    font-size: 20px;
+    padding: 0;
+    }
+    .banner-content h2 {
+    font-size:28px;
+    padding-right: 0px;
+    }
+    .banner-content h1:after {
+    right: -80px;
+    background-size: 36px;
+    top: 13px;
+    height: 110px;
+    width: 50px;
+    }
+	.banner-form .form-group input, form.banner-form button.btn {
+    height: 40px;
+	}
+    .log-cstm-radio h4 {
+    font-size: 16px;
+    margin-right: 13px;
+    }
+    .req-btn a.req-quote {
+    right: -42px;
+        top: 60%;
+    font-size: 12px;
+    padding: 6px 10px;
+	}
+    .log-cstm-radio p label {
+    font-size: 17px !important;
+    }
+    .welcome-sec {
+    padding: 50px 0;
+    }
+    .sec-heading h2 {
+    font-size: 31px !important;
+    }
+    .sec-heading h2 span {
+    font-size: 36px !important;
+    }
+    .welcome-sec p {
+    font-size: 14px !important;
+    line-height: 23px;
+    margin-top: 8px;
+    }
+    .welcome-sec a {
+    margin-top: 19px;
+    margin-bottom: 47px;
+    font-size: 16px;
+    padding: 12px 15px;
+    }
+    .welcome-list ul li figure {
+    height: 100px;
+    width: 100px;
+    }
+    .welcome-list ul li {
+    width: 49%;
+    margin-bottom: 36px;
+    }
+    .welcome-list ul li h4 {
+    font-size: 14px;
+    margin-top: 12px;
+    }
+    .co-liv-sec {
+    padding: 54px 0;
+    }
+    .co-liv-sec .sec-heading p {
+    font-size: 15px;
+    line-height: 25px;
+    }
+    .co-slider {
+    padding-top: 60px;
+    }
+  
+   
+
+    .promise-sec:before {
+    height: 2%;
+    left: -30px;
+    }
+    section.promise-sec .sec-heading {
+    padding: 51px 8px 0;
+    }
+    section.promise-sec .sec-heading p {
+    margin-top: 7px;
+    line-height: 24px;
+    font-size: 14px;
+    }
+    .promise-content ul li {
+    width: 100%;
+    margin-right: 0;
+    }
+    .play-btn a {
+    width: 128px;
+    margin-bottom: 10px;
+    }
+    .get-live-img {
+    margin-top: 36px;
+    }
+    .foot3 {
+    margin-top: 23px;
+    }
+    .latest-love-outer {
+    padding:0;
+    }
+    .love-slid-content p {
+    font-size: 13px;
+    line-height: 25px;
+	height: 171px;
+    	 display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;  
+  overflow: hidden;
+    }
+	
+    .love-slid-content figure {
+    height: 70px;
+    width: 70px;
+    }
+    .love-slid-content {
+    min-height: 324px;
+    }
+	form.banner-form.loc-form .form-group input::placeholder{
+		font-size: 14px;
+	}
+	.location-sec button.btn.btn-loc img {
+    width: 14px;
+	}
+	form.banner-form.loc-form button.btn.btn-search img {
+    width: 17px !important;
+	}
+	.location-sec button.btn.btn-loc {
+		font-size: 12px !important;
+		padding: 10px 3px;
+	}
+    form.banner-form.loc-form button  img {
+    width: 24px;
+    }
+   button.btn.btn-search img {
+    width: 16px;
+	}
+    .select-form label.cstm--check {
+    font-size: 16px;
+    margin-bottom: 16px;
+    }
+    section.loc-pro-sec {
+    padding-top: 50px;
+    }
+    section.loc-pro-sec h1 {
+    line-height: 27px;
+    }
+   .about-in-sec {
+    padding: 134px 0 32px;
+    background-position: top 18px left;
+    }
+    .about-in-sec:after {
+    bottom: -10px;
+    height: 8%;
+    }
+    .abt-content p {
+    font-size: 15px;
+    margin: 23px 0 30px;
+    line-height: 25px;
+    }
+    section.contact-in-sec{
+        padding-bottom: 0;
+        padding-top: 182px;
+    }
+    .pd-hs-detail h2 {
+    font-size: 19px;
+	}
+    .pd-price ul li figure {
+    margin:20px 10px  10px 0;
+    }
+    .amen-sec ul li {
+    width: 47%;
+    }
+     .pd-price ul li  {
+     -webkit-box-orient: vertical;
+     -webkit-box-direction: normal;
+         -ms-flex-flow: column;
+             flex-flow: column;
+     text-align: center;
+    }
+    
+    section.property-detail-sec3 .co-slider-btn a,
+    .food-plan .co-slider-btn a{
+    width: 100%;
+    margin: 0 0 20px 0 !important;
+    font-size: 18px;
+    }
+    .food-plan .co-slider-btn {
+    margin: 3px 0 106px;
+    }
+    .pd-hs-detail p, .rating-pd ul li p {
+    font-size: 14px;
+    }
+    .neighbour ul li {
+    width: 35%;
+    }
+    h3.pd-heading {
+    font-size: 18px;
+    }
+    h3.pd-heading a {
+    font-size: 14px;
+    margin-top: 4px;
+    }
+    .visit-body .logform-btn {
+    margin: 34px 0px;
+    width: 96%;
+    font-size: 20px;
+    height: 48px;
+	box-shadow: 6px 6px 0px #ce1950;
+    }
+	.booknow-body .pd-price ul li a.select-room {
+    min-width: 112px;
+    width: 128px;
+    margin: 10px auto 0;
+	}
+    .booknow-body .pd-price ul li figcaption {
+    width: 100%;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    }
+    .booknow-body .pd-price ul li {
+    height: auto;
+    margin: 0 0 22px 0;
+    }
+    .booking-house .co-slider-btn a {
+    width: 100%;
+    margin: 6px 0;
+    font-size: 15px;
+    }
+    .sign-btn a span.icon-notification {
+    margin-right: 2px;
+    }
+    .monthly-pay-price {
+    padding: 34px 22px;
+    }
+    .book-month-sub span {
+    margin-left: 0px;
+    font-size: 14px;
+    }
+    .pd-hs-detail  span.book-cancle-btn {
+    float: none;
+    font-size: 13px;
+    padding: 2px 9px;
+	margin-bottom: 10px;
+    display: inline-block;
+    }
+    .pre-request h4 {
+    font-size: 14px;
+    }
+    .pre-request span.book-cancle-btn {
+    margin-left: 14px;
+    }
+    .my-account-tabs .nav-tabs>li>a {
+    line-height: 18px;
+    font-size: 13px;
+    margin-right: 0px;
+    letter-spacing: 0;
+    }
+    .account-form-in figure {
+    width: 100%;
+    margin-bottom:34px; 
+    }
+    .account-form-in .content-outer {
+    width: 100%;
+    }
+    .account-form-in h1,
+    .pay-card-det h2{
+    font-size: 15px;
+        line-height: 28px;
+    }
+    .account-form-in .content-outer .log-cstm-radio p {
+    width: 100%;
+    text-align: left;
+    }
+    .account-form-in .co-slider-btn a {
+    padding: 13px 33px;
+    }
+    .account-form-in .co-slider-btn {
+    margin-top: 38px;
+    }
+    .pay-card-det {
+    padding: 17px 14px;
+    }
+    .pay-card-det h2 span,
+    .pay-card-det > p{
+    font-size: 14px;
+    }
+    .svisit-outer h4 {
+    margin-top: 20px;
+    }
+    .pd-hs-detail h4 {
+    line-height: 22px;
+    padding-left: 26px;
+    }
+    .svisit-outer ul li h2 {
+    margin-bottom: 6px;
+    line-height: 24px;
+    }
+    .login-header .dropdown-menu {
+    min-width: 304px;
+    }
+    .navbar-nav .open .dropdown-menu {
+    left: 0;
+    min-width: 240px !important;
+	}
+	.login-header .dropdown-menu > h2 {
+    margin-bottom: 3px;
+	}
+	.noti-text {
+    padding: 4px 6px 5px;
+    border-bottom: 1px solid #cfcfcf;
+	}
+    .notification-sec h1 {
+    font-size: 22px;
+    }
+    .notify-div {
+    padding: 19px 12px;
+    }
+    .notify-div span {
+    font-size: 12px;
+    }
+    .notify-div h2 {
+    font-size: 18px;
+    }
+    .notify-div p {
+    margin-top: 22px;
+    font-size: 13px;
+    line-height: 19px;
+    }
+    section.notification-sec {
+    padding: 148px 0 69px;
+    }
+    header .sign-btn a,
+	.switch-plan{
+    padding: 9px 8px;
+    }
+  
+	header ul.sign-btn li {
+    vertical-align: middle;
+	}
+	header .sign-btn a.log-sign {
+    box-shadow: 4px 4px 0px #0f2c54;
+	}
+    .contact-in-sec:before {
+    left: 51%;
+    top: 28%;
+    background-size: 48% !important;
+    }
+	.coliv-slider .item {
+    margin: 0;
+	}
+	section.subscription-plan {
+    margin: 0px 14px;
+    width: 91%;
+	}
+	.scrollbar {
+    width: 100%;
+	}
+	.card-number {
+    text-align: left;
+	}
+	.card-number figure:before,
+	.card-number figure:after,
+	.card-number p:before{
+    width: 18px;
+	}
+	.upcoming-visit h2 {
+    font-size: 17px;
+	}
+.upcoming-visit h2 a {
+    font-size: 14px;
+	}
+	.card-number p {
+    margin-left: 137px;
+	}
+	form.banner-form button.btn-loc {
+    font-size: 13px;
+    padding: 6px 5px;
+	}
+	form.banner-form button.btn-search {
+    padding: 10px 8px;
+	}
+	.loc-pro-slider .owl-dots{
+	bottom:26px;
+	}
+	.subscription-sec .choose-occupy ul li {
+    width: 100%;
+	}
+	.swt-body ul li {
+    width: 90%;
+    margin: 17px 0;
+	}
+	.monthly-pay-price:hover, .monthly-pay-price.month-popular-price {
+    -webkit-transform: scale(1.03);
+    -ms-transform: scale(1.03);
+    transform: scale(1.03);
+	}
+	.login-header .dropdown-menu .noti-text p {
+    font-size: 13px;
+    line-height: 15px;
+	}
+	.banner-content {
+    padding: 29px 10px 29px 10px;
+	}
+	form.banner-form button.btn-loc span img {
+    width: 13px;
+	margin-top:-2px
+	}
+	form.banner-form .form-group:first-of-type {
+    width:60%
+	}
+	header .sign-btn > li > a {
+    font-size: 12px;
+    padding: 4px 8px;
+	}
+	header .sign-btn a.partner-btn {
+    box-shadow: 4px 4px 0px #ce1950;
+	}
+	header .sign-btn a.log-sign {
+    box-shadow: 4px 4px 0px #0f2c54;
+		    display: inline-block;
+    vertical-align: text-bottom;
+		    margin-right: 10px;
+	}
+	.coliv-slider .owl-dots {
+    bottom: 0;
+	}
+	header ul.sign-btn li.side-curtain span img {
+        top: 2px;
+	}
+
+	header ul.sign-btn li.p-kist-btn:before {
+    left: -11px;
+    top: -12px;
+    height: 32px;
+    width: 30px;
+    background-size: 23px;
+	}
+	header .sign-btn {
+    display: block;
+    margin: 0;
+    text-align: center;
+    float: none;
+	}
+	header .change .sign-btn {
+    float: right;
+    display: inline-block;
+	}
+	header ul.sign-btn li.side-curtain {
+    margin-left: 10px;
+    margin-top: 0;
+	}
+
+	.coliv-slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    height: 480px;
+	}
+	.logform-btn {
+    width: 97%;
+	}
+	.yellow-num-inner {
+    background-position: center;
+	}
+
+	form.banner-form.loc-form .form-group:nth-of-type(2) button.btn.btn-search {
+    right: 74px;
+	}
+	.cstm-checkbox.food-av {
+    margin-right: 0;
+	}
+	.select-form .cstm-checkbox {
+    display: block;
+	text-align: left;
+	}
+	.loc-pro-outer .co-slider-btn a {
+    padding: 8px 6px;
+	}
+	.city-slider-outer ul li {
+    width: 100%;
+    margin: 0px 0px 30px;
+	}
+	.ciity-blocks {
+    min-height: auto;
+    padding-bottom: 15px;
+		background-size: cover;
+	}
+	header ul.nav..sign-btn.si-sticky {
+    display: none;
+	}
+	section.get-youliv {
+    padding: 0 ;
+	}
+	.city-slider-outer {
+    padding: 47px 0 0;
+	}
+	.city-slider-outer ul li:first-child {
+    margin-bottom: 16px;
+	}
+	.lat-lov-fig {
+    bottom: 11%;
+	}
+	.search-form .banner-form .form-group input, .search-form form.banner-form button.btn {
+    height: 38px;
+	}
+
+	section.co-liv-sec {
+    padding-bottom: 40px;
+	}
+	.co-liv-content {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    width: 100%;
+    max-width: 100%;
+	}
+	.co-slider {
+    padding-left: 15px;
+    padding-right: 15px;
+	}
+	.coliv-slider .owl-dots {
+		    padding-right: 0;
+	}
+	.banner-form .form-group input {
+    padding-right: 120px;
+	}
+}
+@media(max-width:380px){
+	.coliv-slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    height: 455px;
+	}
+}
+@media(max-width:320px){
+	.banner-content h1 {
+    font-size: 17px;
+	}
+	.banner-content h2 {
+    font-size: 24px;
+	}
+	.coliv-slider.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    height: 431px;
+	}
+	header ul.sign-btn li.side-curtain {
+    margin-left: 0;
+	}
+}

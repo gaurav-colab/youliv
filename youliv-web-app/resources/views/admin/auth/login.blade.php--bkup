@@ -1,0 +1,55 @@
+@extends('layouts.appregister')
+
+@section('content')
+<section class="login-sec">
+        <div class="container-fluid">
+       <div class="row">
+            <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 register-form">
+           <div class="content-outer loginpage">
+            <figure>
+              <a href="{{url('/')}}"><img src="{{ url('public/app_asset/images/logo.png') }}" alt="youLive"></a>
+              </figure>
+              <form method="POST" action="{{ route($loginRoute) }}">
+                  @csrf
+              <div class="form-group">
+                    <div class="input-group"{{ $errors->has('email') ? 'has-error' : '' }}>
+                    <input type="text"  id="email" name ="email" class="form-control" value="{{ old('email') }}" autocomplete="email" placeholder="{{ __('Email / Mobile Number') }}">
+                    <div class="input-group-addon"><span class="icon-phone"></span></div>
+                    </div>
+                    <span class="text-danger">{{ $errors->first('email') }}</span>
+                  </div>
+                   <div class="form-group">
+                    <div class="input-group">
+                  <input type="password" name="password" id="password" class="form-control" value="{{ old('password') }}"autocomplete="email" placeholder="{{ __('Password') }}">
+                    <div class="input-group-addon"><span class="icon-password"></span></div>
+                    </div>
+                    <span class="text-danger">{{ $errors->first('password') }}</span>
+                  </div>
+                  @if (Route::has('password.request'))
+                                    <a class="btn btn-link forgot-password-link"   href="{{ route('password.request') }}">
+
+                                        {{ __('Forgot Your Password?') }}
+                                    </a>
+                                @endif
+
+                      <button type="submit" class="btn logform-btn"><span>Login</span></button>
+              </form>
+
+
+              <div class="creat-acc">
+              <!-- javascript:void(0); -->
+              <a href="{{route('register')}}">Create your Account <span class="icon-arrow"></span></a>
+              </div>
+
+            </div>
+           </div>
+           <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 login-bg-img">
+           <figure>
+               <img src="{{ url('public/app_asset/images/login-bg.png') }}" alt="login-bg">
+               </figure>
+           </div>
+            </div>
+        </div>
+        </section>
+
+@endsection

@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/public/assets/img
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3a4aae5c7f81517e65f4fa812e83ad3f5fd886d7

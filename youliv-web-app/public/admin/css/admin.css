@@ -1,0 +1,539 @@
+@charset "UTF-8";
+
+.navbar {
+    padding: 15px 10px;
+    background: #fff;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 40px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-btn {
+    box-shadow: none;
+    outline: none !important;
+    border: none;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px dashed #ddd;
+    margin: 40px 0;
+}
+
+/* ---------------------------------------------------
+    SIDEBAR STYLE
+----------------------------------------------------- */
+
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+}
+
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    background: #3c4b64;;
+    color: #fff;
+    transition: all 0.3s;
+}
+
+#sidebar.active {
+    margin-left: -250px;
+}
+
+#sidebar .sidebar-header {
+    padding: 20px;
+    background: #303c54;
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+    border-bottom: 1px solid #47748b;
+}
+
+#sidebar ul p {
+    color: #fff;
+    padding: 10px;
+}
+#sidebarCollapse
+{
+	background: #3c4b64 !important;
+}
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+	color: #fff;
+}
+
+#sidebar ul li a:hover {
+    color: #fff;
+    background: #627595;
+	text-decoration:none;
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+    color: #fff;
+    background: #4b5c79;
+}
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #6d7fcc;
+}
+
+ul.CTAs {
+    padding: 20px;
+}
+
+ul.CTAs a {
+    text-align: center;
+    font-size: 0.9em !important;
+    display: block;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+a.download {
+    background: #fff;
+    color: #7386D5;
+}
+
+a.article,
+a.article:hover {
+    background: #6d7fcc !important;
+    color: #fff !important;
+}
+
+/* ---------------------------------------------------
+    CONTENT STYLE
+----------------------------------------------------- */
+
+#content {
+    width: 100%;
+    padding: 20px;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+/* ---------------------------------------------------
+    MEDIAQUERIES
+----------------------------------------------------- */
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+    #sidebarCollapse span {
+        display: none;
+    }
+}
+.images_edit ul li {
+    list-style-type: none;
+	display: inline-block;
+	margin-right: 14px;
+	width: 8%;
+	height: 100px;
+	MARGIN-BOTTOM: 15PX;
+}
+.images_edit ul li img {
+    width: 100%;
+    height: 100%;
+    border-radius: 4px;
+    box-shadow: 0 0 5px #b5b5b5;
+}
+.neighbour1 ul li {
+    list-style-type: none;
+	    text-align: left;
+}
+    .room {
+        margin-left: 100px;
+    }
+
+    .quantity {
+        margin-left: 200px;
+    }
+
+    .rent_month {
+        margin-left: 200px;
+    }
+
+    #select_single_room {
+        margin-left: 45px;
+    }
+
+    #select_twin_room {
+        margin-left: 45px;
+    }
+
+    #select_triple_room {
+        margin-left: 45px;
+    }
+
+    .dz-success-mark, .dz-error-mark{
+        display: none;
+    }
+
+    #select_other_room {
+        margin-left: 45px;
+    }
+
+    #select_single_rk {
+        margin-left: 45px;
+    }
+
+    #select_single_flat {
+        margin-left: 45px;
+    }
+
+    #select_twin_flat {
+        margin-left: 45px;
+    }
+
+    #select_other_flat {
+        margin-left: 45px;
+    }
+
+    .alert-danger {
+        color: #772b35;
+        background-color: #fff;
+        border-color: #fff;
+    }
+
+    .alert {
+        padding: 5px;
+    }
+
+    #myMap {
+        height: 350px;
+    }
+
+    #map {
+        height: 400px;
+    }
+
+    /* Optional: Makes the sample page fill the window. */
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    #description {
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 300;
+    }
+
+    #infowindow-content .title {
+        font-weight: bold;
+    }
+
+    #infowindow-content {
+        display: none;
+    }
+
+    #map #infowindow-content {
+        display: inline;
+    }
+
+    .pac-card {
+        margin: 10px 10px 0 0;
+        border-radius: 2px 0 0 2px;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        outline: none;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        background-color: #fff;
+        font-family: Roboto;
+    }
+
+    #pac-container {
+        padding-bottom: 12px;
+        margin-right: 12px;
+    }
+
+    .pac-controls {
+        display: inline-block;
+        padding: 5px 11px;
+    }
+
+    .pac-controls label {
+        font-family: Roboto;
+        font-size: 13px;
+        font-weight: 300;
+    }
+
+    #pac-input {
+        background-color: #fff;
+        font-family: Roboto;
+        font-size: 15px;
+        font-weight: 300;
+        margin-left: 12px;
+        padding: 0 11px 0 13px;
+        text-overflow: ellipsis;
+        width: 400px;
+    }
+
+    #pac-input:focus {
+        border-color: #4d90fe;
+    }
+
+    #title {
+        color: #fff;
+        background-color: #4d90fe;
+        font-size: 25px;
+        font-weight: 500;
+        padding: 6px 12px;
+    }
+
+    .hide,
+    .hide_div {
+        display: none;
+    }
+
+    .multipleSelection {
+        width: 300px;
+        background-color: #BCC2C1;
+    }
+
+    .selectBox {
+        position: relative;
+    }
+
+    .selectBox select {
+        width: 100%;
+        font-weight: bold;
+    }
+
+    .overSelect {
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+    }
+
+    #checkBoxes, #flatCheckBoxes {
+        display: none;
+        border: 1px #8DF5E4 solid;
+    }
+
+    #checkBoxes label, #flatCheckBoxes label {
+        display: block;
+    }
+
+    #checkBoxes label:hover, #flatCheckBoxes label:hover {
+        background-color: #4F615E;
+    }
+    .container{
+    margin: 0 auto;
+    width: 50%;
+    }
+
+.content{
+ padding: 5px;
+ margin: 0 auto;
+}
+.content span{
+ width: 250px;
+}
+
+.dz-message{
+ text-align: center;
+ font-size: 28px;
+}
+
+
+.error {
+  color: #f41212;
+  font-size:12px;
+}
+
+.view_link
+{
+  color: #4f5d73;
+  font-size:12px;
+}
+.del_link
+{
+  color: #f41212;
+  font-size:12px;
+   cursor:pointer;
+}
+
+.edit_link
+{
+  color: #4f5d73;
+  font-size:12px;
+  cursor:pointer;
+}
+
+.green_link
+{
+  color: #12f460;
+  font-size:12px;
+  cursor:pointer;
+}
+
+ .visit-body label {
+     
+     margin-top: 16px;
+ }
+ .visit-body h2 {
+     font-weight: 600;
+     font-size: 24px;
+     color: #28324b;
+     margin-bottom: 16px;
+ }
+ .visit-body p span {
+     color: #f02462;
+     font-size: 18px;
+     vertical-align: middle;
+     margin-right: 2px;
+ }
+ .visit-body p {
+     font-size: 14px;
+     font-weight: 500;
+     color: #525a6f;
+     margin-bottom: 42px;
+     position: relative;
+ }
+ .visit-body .monthly-pay-price > p {
+     font-size: 13px;
+     color: #fff;
+     margin: 18px 0 20px;
+     padding-left: 0;
+     line-height: 20px;
+ }
+ .visit-body h3 {
+     font-size: 15px;
+     font-weight: 600;
+     color: #28324b;
+     margin-bottom: 26px;
+ }
+ .visit-body .form-group input,.visit-body .form-group span,
+ .visit-body .form-group textarea{
+     border-radius: 0;
+     border: none;
+     background: #ededed;
+     height: 61px;
+ }
+ .visit-body .form-group textarea{
+     height:150px
+ }
+.visit-body .form-group input::-webkit-input-placeholder, .visit-body .form-group textarea::-webkit-input-placeholder{
+     font-size: 16px;
+     color: #5b5b5b;
+     font-weight: 400;
+ }
+ .visit-body .form-group input::-moz-placeholder, .visit-body .form-group textarea::-moz-placeholder{
+     font-size: 16px;
+     color: #5b5b5b;
+     font-weight: 400;
+ }
+ .visit-body .form-group input:-ms-input-placeholder, .visit-body .form-group textarea:-ms-input-placeholder{
+     font-size: 16px;
+     color: #5b5b5b;
+     font-weight: 400;
+ }
+ .visit-body .form-group input::-ms-input-placeholder, .visit-body .form-group textarea::-ms-input-placeholder{
+     font-size: 16px;
+     color: #5b5b5b;
+     font-weight: 400;
+ }
+ .visit-body .form-group input::placeholder,
+ .visit-body .form-group textarea::placeholder{
+     font-size: 16px;
+     color: #5b5b5b;
+     font-weight: 400;
+ }
+ .visit-body span.icon-calendar {
+     font-size: 28px;
+     color: #09418c;
+ }
+ .visit-body form {
+     margin-bottom: 42px;
+ }
+ .visit-body.booknow-body form {
+     margin-bottom: 25px !important;
+ }
+
+.sh_date
+{
+	 font-size: 25px !important;
+}
+.input-group-addon, .input-group-btn {
+    width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+.time_selected {
+    color: #fff !important;
+    background-color: #09418c !important;
+}
+.input-group-addon {
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+        border-top-left-radius: 4px;
+        border-bottom-left-radius: 4px;
+}
+ .visit-body ul li {
+     display: inline-block;
+     width: 26%;
+     margin: 10px 6px 0 0px;
+ }
+ .visit-body ul li a {
+       display: block;
+     border: 2px solid #09418c;
+     text-align: center;
+     padding: 8px 16px;
+     border-radius: 50px;
+     color: #09418c;
+     font-size: 14px;
+     font-weight: 400;
+ }
+ .visit-body ul li a:hover {
+     color: #fff;
+     background: #09418c;
+ }
+ .visit-body .logform-btn {
+     margin: 55px 14% 26px;
+     width: 73%;
+     }
+	 .visit-property-date .date-property-type{
+		 position:relative;
+	 }
+.visit-property-date .fa.fa-calendar-check-o.sh_date {
+	position: absolute;
+	top: 52px;
+	right: 37px;
+}
